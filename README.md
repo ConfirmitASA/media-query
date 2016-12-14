@@ -1,4 +1,4 @@
-  #MediaQuery 
+  # MediaQuery 
   
   [API docs](https://ConfirmitASA.github.io/media-query)
   
