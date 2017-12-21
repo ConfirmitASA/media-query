@@ -2,7 +2,7 @@
   "name": "media-query",
   "version": "0.1.0",
   "description": "Boilerplate for ES6 modules with Karma & Jasmine",
-  "main": "src/main.js",
+  "main": "dist/media-query.bundle.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/media-query.git"
