@@ -1,7 +1,7 @@
 {
   "name": "media-query",
-  "version": "0.1.0",
-  "description": "Boilerplate for ES6 modules with Karma & Jasmine",
+  "version": "0.1.1",
+  "description": "`MediaQuery` helps perform actions when CSS query is matched instead of polling the window width, when it's not so important to get exact width, only checking matching the query.",
   "main": "dist/media-query.bundle.js",
   "repository": {
     "type": "git",
